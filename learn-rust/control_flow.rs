@@ -1,0 +1,21 @@
+#![allow(unused)]
+
+// ================= if Expressions =====================
+
+
+// ================= loop ======================
+
+fn main() {
+    let mut counter = 0;
+
+    let result = loop {
+        counter += 1;
+        println!("{}", counter);
+
+        if counter == 10 {
+            break counter * 2;
+        }
+    };
+
+    println!("The result is {result}");
+}
