@@ -1,6 +1,6 @@
 This repository documents my journey and learning experience in Competitive Programming and Data Structures & Algorithms (DSA).
 
-My primary language is C++, with Python as a secondary language.
+My primary language is Rust, with Python as a secondary language.
 
 Books:
 ------
